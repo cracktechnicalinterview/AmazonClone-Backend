@@ -1,0 +1,8 @@
+package com.example.addToCart.Services;
+
+import org.springframework.cloud.netflix.feign.FeignClient;
+
+@FeignClient(name="product-details", url="localhost:8082")
+public interface ProductDetailsProxy {
+
+}

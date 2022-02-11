@@ -1,0 +1,13 @@
+1643821635917	Rename package 'com.example.usermetadata'
+1643821649259	Rename package 'com.example.usermetadata.Controller'
+1643821661904	Rename package 'com.example.usermetadata.Entity'
+1643821673321	Rename package 'com.example.usermetadata.Repository'
+1643821686360	Rename package 'com.example.usermetadata.Services'
+1643821726872	Rename type 'UserController'
+1643821757452	Rename type 'UserRepo'
+1643821775223	Rename type 'UsermetadataApplication'
+1643821785211	Rename type 'addToCartApplication'
+1643821885469	Rename type 'UserService'
+1643821933960	Rename type 'addToCartRepo'
+1643821984305	Delete element
+1643822021945	Delete element

@@ -1,0 +1,7 @@
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url=jdbc:mysql://localhost:3306/addToCartDB?sessionVariables=sql_mode='NO_ENGINE_SUBSTITUTION'&jdbcCompliantTruncation=false
+spring.datasource.username=root
+spring.datasource.password=password
+spring.config.import=optional:configserver:http://localhost:8081
+spring.application.name="add-to-cart"
+server.port:8081
